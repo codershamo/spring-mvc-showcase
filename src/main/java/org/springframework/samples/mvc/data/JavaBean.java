@@ -8,6 +8,8 @@ public class JavaBean {
 	
 	private String param3;
 
+	private String sha;
+
 	public String getParam1() {
 		return param1;
 	}
